@@ -1,3 +1,10 @@
 h1 {
-  color:rgb(255, 136, 0) font 40pix;
+  color:rgb(255, 136, 0) font 40pix
+}
+
+img { 
+  height: 50%;
+  width: 50%;
+
+
 }
